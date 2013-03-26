@@ -1,0 +1,26 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+
+img {
+  width: 200px;
+  height: 500px;
+}
+
+.loading{
+  margin: 0 auto;
+  width: 600px;
+  padding: 20px;
+  margin-top: 200px;
+  text-align: center;
+  display: none;
+}
+
+.charsleft {
+  font-family: verdana;
+  font-size: 10px;
+  color: #ccc;
+}
