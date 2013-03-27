@@ -13,6 +13,7 @@ gem 'thin'
 gem 'activesupport'
 gem 'activerecord'
 gem 'twitter'
+gem 'oauth'
 gem 'rake'
 
 group :test do
