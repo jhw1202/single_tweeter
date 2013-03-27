@@ -15,6 +15,7 @@ gem 'activerecord'
 gem 'twitter'
 gem 'oauth'
 gem 'rake'
+gem 'pry'
 
 group :test do
   gem 'faker'
